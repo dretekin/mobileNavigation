@@ -3,8 +3,8 @@
 // });
 
 let container = document.querySelector(".container"),
-  containerCover = document.querySelector(".container-cover"),
-  containerCoverDark = document.querySelector(".container-cover-dark"),
+  containerCover = document.querySelector(".container-wrapper"),
+  containerCoverDark = document.querySelector(".container-wrapperCover"),
   showNav = document.querySelector(".show-nav"),
   nav = document.querySelector(".nav"),
   showSubNav = document.querySelectorAll(".nav-link_toSubNav"),

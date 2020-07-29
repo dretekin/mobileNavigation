@@ -134,27 +134,7 @@ a {
   border-left: 1px solid rgba(255, 255, 255, 0.5);
 }
 
-/* .sub-heading {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-.sub-link {
-  display: inline-block;
-  padding: 11px 20px;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
-  border-left: 1px solid rgba(255, 255, 255, 0.5);
-}
-
-.go-back {
-  display: inline-block;
-  padding: 11px 20px;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
-  border-right: 1px solid rgba(255, 255, 255, 0.5);
-} */
-
-.container-cover {
+.container-wrapper {
   height: inherit;
   width: 100%;
   position: relative;
@@ -163,7 +143,7 @@ a {
   background-color: #fff;
 }
 
-.container-cover-dark {
+.container-wrapperCover {
   width: inherit;
   height: inherit;
   background: rgba(0, 0, 0, 0.3);
